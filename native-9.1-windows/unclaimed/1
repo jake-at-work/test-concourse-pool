@@ -1,7 +1,6 @@
----
-address: 1.1.1.1
+!!python/object:pilot.session.Session
+address: 10.32.108.239
+cloud_provider: aws
+instance_id: i-03db612da0dae9cc4
+keyname: team-native
 username: build
-private-key: |
-  slkdfjaskldflasjdfkasldkjlksadjlk
-
-  
